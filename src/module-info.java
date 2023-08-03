@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author alakh
+ *
+ */
+module EclipsewithGit {
+}
